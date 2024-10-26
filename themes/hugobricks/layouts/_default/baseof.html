@@ -12,7 +12,7 @@
     {{- $color := "style" -}}
     {{- if .Params.color_name -}}{{- $color = .Params.color_name -}}{{- end -}}
     {{- if .Site.Data.settings.color_name -}}{{- $color = .Site.Data.settings.color_name -}}{{- end -}}
-    <link href="/css/{{ $color }}.css?version={{ now }}" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}/css/{{ $color }}.css?version={{ now }}" rel="stylesheet">
 
   </head>
   <body id="top" class="{{ if in (substr .Content  0 100) `transparent_header` }}transparent_header{{ end }} filename_{{ with .File }}{{ .BaseFileName }}{{ end }}">
@@ -158,21 +158,21 @@
 		</footer>
 
 		{{ if .Site.Data.settings.sticky_header }}
-      <script type="text/javascript" src="/js/stickyheader.js"></script>
+      <script type="text/javascript" src="{{ .Site.BaseURL }}/js/stickyheader.js"></script>
     {{ end }}
-    <script type="text/javascript" src="/js/faq.js"></script>
-    <script type="text/javascript" src="/js/lightbox.js"></script>
-		<link rel="stylesheet" href="/css/lightbox.css">
+    <script type="text/javascript" src="{{ .Site.BaseURL }}/js/faq.js"></script>
+    <script type="text/javascript" src="{{ .Site.BaseURL }}/js/lightbox.js"></script>
+		<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/lightbox.css">
     {{ if .Site.Data.settings.customcursor }}
-      <script type="text/javascript" src="/js/customcursor.js"></script>
-      <link rel="stylesheet" href="/css/customcursor.css">
+      <script type="text/javascript" src="{{ .Site.BaseURL }}/js/customcursor.js"></script>
+      <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/customcursor.css">
     {{ end }}
     {{ if .Site.Data.settings.intersectionobserver }}
-      <script type="text/javascript" src="/js/intersectionobserver.js"></script>
-      <link rel="stylesheet" href="/css/intersectionobserver.css">
+      <script type="text/javascript" src="{{ .Site.BaseURL }}/js/intersectionobserver.js"></script>
+      <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/intersectionobserver.css">
     {{ end }}
-    <script type="text/javascript" src="/js/swiper-bundle.min.js"></script>
-    <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="{{ .Site.BaseURL }}/js/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="{{ .Site.BaseURL }}/js/main.js"></script>
       </div>
   </body>
 </html>
