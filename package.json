@@ -1,0 +1,27 @@
+{
+  "name": "hugo-bricks",
+  "version": "0.0.1",
+  "description": "Hugo template",
+  "repository": "creio/hugobricks",
+  "main": "index.js",
+  "scripts": {
+    "create": "exec-bin node_modules/.bin/hugo/hugo new",
+    "dev": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender",
+    "build": "exec-bin node_modules/.bin/hugo/hugo --gc --minify",
+    "build:preview": "npm run build -D -F",
+    "server": "exec-bin node_modules/.bin/hugo/hugo server",
+    "check": "exec-bin node_modules/.bin/hugo/hugo version",
+    "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "exec-bin": "^1.0.0",
+    "hugo-installer": ">=4.0.1"
+  },
+  "otherDependencies": {
+    "hugo": "0.128.0"
+  },
+  "dependencies": {
+  }
+}

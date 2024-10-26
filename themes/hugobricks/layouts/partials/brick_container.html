@@ -1,0 +1,25 @@
+
+{{- $inner := . -}}
+{{- $parts := "" -}}
+{{- if in $inner "---" -}}
+    {{- $parts = split $inner "---" -}}
+{{- end -}}
+<section class="blocks">
+  {{- if and $parts (gt (len $parts) 0) -}}
+    <div class="container small">
+        {{- markdownify (index $parts 0) -}}
+    </div>
+    <div class="container">
+        {{- range after 1 $parts -}}
+            {{- $i := markdownify . -}}
+            {{- $i | safeHTML -}}
+        {{- end -}}
+    </div>
+  {{- else -}}
+    <div class="container">
+        {{- markdownify $inner -}}
+    </div>
+  {{- end -}}
+</section>
+
+

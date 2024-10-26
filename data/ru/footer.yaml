@@ -1,0 +1,24 @@
+logo_image: /uploads/branding/logoartmedia.png
+menuitems:
+  - title: О нас
+    link:  /about/
+  # - title: Elements
+  #   link:  /elements/
+# socials:
+#   - title: Facebook
+#     link: https://facebook.com
+#     logo_image: /img/facebook.svg
+#   - title: Twitter
+#     link: https://twitter.com
+#     logo_image: /img/twitter.svg
+#   - title: Mastodon
+#     link: https://joinmastodon.org
+#     logo_image: /img/mastodon.svg
+#   - title: Instagram
+#     link: https://instagram.com
+#     logo_image: /img/instagram.svg
+footer_text: |
+  Москва: +7 (495) 414-24-43<br>
+  Санкт-Петербург, Казань: 8 (800) 301-78-81<br><br>
+  {year} © АртМедиа.ru<br>
+  [Политика конфиденциальности](/privacy-policy/)

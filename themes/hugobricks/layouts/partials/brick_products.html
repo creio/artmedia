@@ -1,0 +1,54 @@
+
+{{- $inner := . -}}
+{{- if or (eq $inner "") (eq $inner nil) -}}
+    {{- $inner = "Empty brick found. Consider creating a 'content/bricks/products.md' file." -}}
+    {{- with page.Site.GetPage "bricks/products.md" -}}
+        {{- $inner = .RawContent -}}
+    {{- end -}}
+{{- end -}}
+<section class="posts">
+  {{ if $inner }}
+  <div class="container small">
+    {{- markdownify $inner -}}
+  </div>
+  {{ end }}
+  <div class="container products-wrap">
+    {{ range where page.Site.RegularPages "Section" "products" }}
+    <div class="products-item twocols">
+      <div class="image">
+        {{ with .Params.images }}
+        <div class="swiper swiper-products">
+          <div class="swiper-wrapper">
+            {{ range . }}
+                <div class="swiper-slide"><img src="{{ . }}"></div>
+            {{ end }}
+          </div>
+          <div class="swiper-pagination"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+        {{ end }}
+      </div>
+      <div class="products-info">
+        <a class="products-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{- with .Params.props -}}
+          <ul>
+          {{- range . -}}
+            <li>{{ . }}</li>
+          {{- end -}}
+          </ul>
+        {{- end -}}
+        {{- if .Params.price -}}
+          <div class="products-prices">
+            <span class="price">{{- .Params.price -}}</span>
+            {{- if .Params.price_old -}}
+              <span class="price-old">{{- .Params.price_old -}}</span>
+            {{- end -}}
+          </div>
+        {{- end -}}
+        <div><a class="button" href="{{ .RelPermalink }}">ПОДРОБНЕЕ</a></div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>

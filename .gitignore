@@ -1,0 +1,8 @@
+node_modules/
+public/
+resources/
+/npm-debug.log
+yarn-error.log
+.DS_Store
+.netlify/
+.hugo_build.lock
