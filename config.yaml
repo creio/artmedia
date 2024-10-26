@@ -1,4 +1,4 @@
-baseURL: https://creio.github.io/artmedia
+baseURL: https://artmedia-photo.netlify.app
 theme: hugobricks
 defaultContentLanguage: ru
 assetDir: static

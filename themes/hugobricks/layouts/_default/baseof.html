@@ -7,7 +7,7 @@
     <meta name="description" content="{{ if .Params.seo.description }}{{ .Params.seo.description }}{{ else }}{{ .Summary }}{{ end }}">
 
     <link rel="canonical" href="{{ .Permalink }}" />
-    <link rel="shortcut icon" href="{{ .Site.Data.settings.favicon_image }}">
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Data.settings.favicon_image }}">
     
     {{- $color := "style" -}}
     {{- if .Params.color_name -}}{{- $color = .Params.color_name -}}{{- end -}}
