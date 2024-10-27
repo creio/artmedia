@@ -1,33 +1,43 @@
 ---
-title: Privacy policy
+title: Политика конфиденциальности
 ---
 {{< brick_title >}}
 
-# Privacy policy
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+# УСЛОВИЯ ИСПОЛЬЗОВАНИЯ САЙТА И ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
 
 {{< /brick_title >}}
+
 {{< brick_wide >}}
 
-## Article 1
+Настоящие УСЛОВИЯ ИСПОЛЬЗОВАНИЯ САЙТА представляют собой официальный документ Жукова Павла Олеговича (ИП) (и определяют порядок использования посетителями сайта http://www.ostankino-tv.ru (далее - Сайт) Сервиса (виджет онлайн-консультант, интегрированный в Сайт, форма сбора контактов, заявок и формы в социальных сетях) и обработки информации, получаемой от посетителей Сайта при помощи Сервиса.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis. Quisque aliquet orci quis massa scelerisque gravida. Cras maximus lacus et orci lacinia fermentum. Integer venenatis bibendum condimentum. Maecenas non rutrum magna. Sed varius metus sit amet augue condimentum, quis faucibus nulla tempor. Phasellus nec ipsum dolor. Aliquam non maximus orci.
+**Начиная использование Сервиса, посетитель Сайта выражает свое полное и безоговорочное согласие с настоящими УСЛОВИЯМИ ИСПОЛЬЗОВАНИЯ СЕРВИСА, которые определяются Администратором как публичная оферта в соответствии со статьей 437 ГК РФ.**
 
-### Article 1.1
+Посетитель Сайта обязан ознакомиться с настоящими УСЛОВИЯМИ ИСПОЛЬЗОВАНИЯ СЕРВИСА до начала использования Сервиса. Администратором в любое время могут быть изменены Настоящие УСЛОВИЯ ИСПОЛЬЗОВАНИЯ СЕРВИСА, без уведомления пользователя Сайта.
 
-Integer sollicitudin dui quis nibh tincidunt, et pharetra nulla varius. Vestibulum malesuada quam dapibus lacus molestie, sed maximus nulla sagittis. Ut dui quam, convallis eu justo quis, posuere sodales dolor. Maecenas eu sem et purus finibus auctor in vel dolor. Fusce vitae diam pellentesque, suscipit nisl nec, varius erat. Curabitur condimentum mauris ut sapien rhoncus, quis venenatis purus pulvinar. Ut in imperdiet augue, et porttitor magna. Praesent euismod urna ut lectus pretium suscipit. Sed nec mauris in nunc condimentum viverra. Praesent vitae hendrerit sem, eu suscipit arcu. Ut sollicitudin dolor lacus, nec interdum purus volutpat in. Phasellus aliquet quis nunc vitae maximus.
+Пользователю предоставляется право на работу Сервиса на Сайте Администратора и его последующее использование исключительно в соответствии с его функциональным назначением – для целей коммуникации с Администратором Сайта.
 
-### Article 1.2
+### Согласие на обработку персональных данных.
 
-Integer sollicitudin dui quis nibh tincidunt, et pharetra nulla varius. Vestibulum malesuada quam dapibus lacus molestie, sed maximus nulla sagittis. Ut dui quam, convallis eu justo quis, posuere sodales dolor. Maecenas eu sem et purus finibus auctor in vel dolor. Fusce vitae diam pellentesque, suscipit nisl nec, varius erat. Curabitur condimentum mauris ut sapien rhoncus, quis venenatis purus pulvinar. Ut in imperdiet augue, et porttitor magna. Praesent euismod urna ut lectus pretium suscipit. Sed nec mauris in nunc condimentum viverra. Praesent vitae hendrerit sem, eu suscipit arcu. Ut sollicitudin dolor lacus, nec interdum purus volutpat in. Phasellus aliquet quis nunc vitae maximus.
+Информация указанная пользователем при использовании Сервиса, относящаяся к прямо или косвенно определенному или определяемому физическому лицу (далее – персональные данные) будет обработана в соответствии с законодательством Российской Федерации. Пользователь даёт согласие Администратору на обработку всех сообщаемых персональных данных. Администратор обрабатывает персональные данные пользователя исключительно в целях предоставления пользователю функционала Сервиса и Сайта, размещенного на нем контента, маркетинговой, рекламной, иной информации, в целях получения пользователем персонализированной (таргетированной) рекламы, исследования и анализа данных пользователя, а также в целях продвижения пользователю своих товаров и услуг. Администратором будут приняты все необходимые меры для защиты персональных данных пользователя Сайта, а также предоставлен доступ только тем работникам, подрядчикам и агентам Администратора, которым эта информация необходима для обеспечения целей обработки персональных данных Администратором Сайта. Раскрытие предоставленных пользователем персональных данных может быть произведено лишь в соответствии с законодательством Российской Федерации. Администратор вправе в отношении всех сообщенных пользователем своих персональных данных осуществлять сбор систематизацию, накопление, хранение, уточнение (обновление, изменение), использование, распространение (в том числе передача любым третьим лицам, включая передачу персональных данных третьим лицам на хранение или в случае поручения обработки персональных данных третьим лицам), обезличивание, блокирование, уничтожение, трансграничная передача, обработка с применением основных способов такой обработки (хранение, запись на электронных носителях и их хранение, составление перечней, маркировка) и иные действия в соответствии со статьей 3 Федерального закона от 27.06.2006 № 152-ФЗ «О персональных данных».
 
-## Article 2
+В свою очередь пользователь понимает и соглашается с тем, что предоставление Администратору какой-либо информации о себе, не являющейся контактной и не относящейся к целям, указанными Администратором Сайта (не относящейся к деятельности Администратора, к продвигаемым им товарам и/или услугам, к условиям сотрудничества Администратора и пользователя Сайта), а исключительно предоставление информации, относящейся к государственной, банковской и/или коммерческой тайне, информации о расовой и/или национальной принадлежности, политических взглядах, религиозных или философских убеждениях, состоянии здоровья, интимной жизни пользователя Сайта или иного третьего лица запрещено.
 
-Mauris in nisi ex. Etiam ultricies ipsum id turpis blandit bibendum. Donec posuere elit nec odio vehicula blandit. Aliquam nulla velit, sagittis vitae tellus ut, efficitur faucibus diam. Maecenas id egestas sapien. Nunc sit amet ullamcorper risus. Etiam bibendum mattis ullamcorper. Nulla interdum ornare ipsum, quis efficitur libero tincidunt sed.
+Согласие на обработку персональных данных дается пользователем бессрочно. Пользователь в любое время вправе отозвать данное им согласие путем направления соответствующего заявления в тех поддержку или онлайн чат. Отзыв согласия на обработку персональных данных будет означать автоматическое их удаление Администратором сайта из всех ресурсов, баз данных и накопителей в течение 14 дней, а также прекращение возможности пользования услугами и сервисами, для которых предоставление персональных данных обязательно.
 
-In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin. Phasellus sit amet iaculis nisi. Duis sit amet massa cursus, dapibus erat a, eleifend justo. Cras in felis tristique, aliquet est at, ultrices leo. Donec accumsan at quam id volutpat.
+### Обязанности пользователя Сайта.
 
-Curabitur sit amet laoreet urna. Donec vel lobortis nunc. Aliquam scelerisque ultrices ipsum vitae gravida. Nam semper, nibh vitae porttitor auctor, quam dui faucibus diam, sit amet vulputate ligula nibh sed dui. Cras viverra nisl vitae dictum auctor. Aliquam rhoncus dolor nibh, sit amet maximus eros blandit vitae. Sed maximus dui sit amet nibh pulvinar volutpat. Nam odio purus, porta quis ultrices vitae, ultricies non justo. Vestibulum elementum elementum vulputate. Proin facilisis ipsum ipsum, vel ornare orci vehicula sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis congue sit amet est ornare convallis. Etiam viverra bibendum elit vitae blandit. 
+При посещении Сайта и при использовании Сервиса Пользователь обязан соблюдать правила настоящих УСЛОВИЙ ИСПОЛЬЗОВАНИЯ СЕРВИСА и законодательства Российской Федерации, а также:
+
+- в случае предоставления пользователем какой-либо информации (каких-либо данных) Администратору, предоставлять исключительно достоверную и актуальную информацию. Пользователь Сайта не вправе вводить Администратора в заблуждение в отношении своей личности, сообщать ложную или недостоверную информацию о себе;
+- не сообщать Администратору любым образом, как с использованием Сервиса, так и в ином порядке, какую-либо информацию, полностью или в части относящуюся к государственной, коммерческой и/или банковской тайне, фактам и информации о своей личной жизни или личной жизни третьих лиц, а также не сообщать иную информацию, предоставление которой запрещено настоящими УСЛОВИЯМИ ИСПОЛЬЗОВАНИЯ СЕРВИСА;
+- не предоставлять, не сообщать и не передавать Администратору какую-либо информацию (в том числе данные, объекты, контент, условия и тд.) и ссылки на такую информацию если это может нарушать или привести к нарушению законодательства Российской Федерации, нарушить права и интересы третьих лиц. В случае наличия у пользователя сомнений относительно правомерности сообщения какой-либо информации Администратору посредством Сервиса и Сайта, пользователь обязан воздержаться от совершения данного действия;
+- использовать полученную от Администратора информацию (в том числе информацию, переданную Администратором через Сайт и/или Сервис) исключительно для личных целей, не передавать такую информацию третьим лицам без прямого на то согласия Администратора.
+
+### Ограничение ответственности Администратора.
+
+На сайте и Сервисе, как и в любом программном обеспечении не исключены ошибки. Сайт, Сервис, весь функционал, включая скрипты, приложения, контент и иную информацию, размещенную на сайте, поставляются на условиях «КАК ЕСТЬ», со всеми недостатками, выявлеными сразу или не сразу.
+
+Администратор не гарантирует и не обещает каких-либо результатов от использования Сайта или Сервиса. Пользователь Сайта принимая настоящие УСЛОВИЯ ИСПОЛЬЗОВАНИЯ СЕРВИСА соглашается с тем, что Администратор не несет никакой ответственности за функционирование и работоспособность Сервиса. Администратор не несет ответственности за временные сбои и перерывы в работе Сервиса или Сайта и вызванные такими сбоями потери информации. Администратор также не несет никакой ответственности за ущерб, причиненный пользователям Сайта, явившийся результатом использования Сайт или Сервиса. Администратор вправе использовать и распоряжаться информацией пользователя для составления статистической отчетности, использовать ее в рекламных и маркетинговых целях, а также вправе направлять пользователю информацию о своей деятельности и любым способом ее рекламировать. Правообладатель Сервиса (Жуков Павел Олегович (ИП)) не несет никакой ответственности за функционирование Сервиса, за какие-либо последствия его использования пользователями Сайта и/или последствия сообщения или получения какой-либо информации с использованием (с помощью) Сервиса.
 
 {{< /brick_wide >}}

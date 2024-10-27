@@ -2,44 +2,40 @@ logo_image: /uploads/branding/logoartmedia.png
 logo_subtitle: Фотостудия выпускных альбомов №1
 mobile_view_width: 1100
 menuitems:
-  - title: Headers
-    link: /headers/
+  - title: Альбомы
+    link: /products/
     items:
-      - title: Title
-        link: /header-with-title/
-      - title: Content block
-        link: /header-with-content/
-      - title: Dark preheader
-        link: /header-dark/
-      - title: Dark nav
-        link: /header-darker/
-      - title: Transparent nav
-        link: /header-transparent/
+      - title: Для старших классов
+        link: /products/senior-classes/
+      - title: Для младших классов
+        link: /products/kinder-classes/
+      - title: Для детского сада
+        link: /products/kinder/
   - title: Контакты
     link: /contact/
-  - title: Pages
-    link: /about/
-    items: 
-      - title: About
-        link: /about/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Images
-        link: /images/
-      - title: Our team
-        link: /team/
-      - title: Services
-        link: /services/
-      - title: Blog
-        link: /blog/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
-        link: /404.html
-  - title: Elements
-    link: /elements/
+  # - title: Pages
+  #   link: /about/
+  #   items:
+  #     - title: About
+  #       link: /about/
+  #     - title: Basic page 1
+  #       link: /basic/
+  #     - title: Basic page 2
+  #       link: /basic2/
+  #     - title: Images
+  #       link: /images/
+  #     - title: Our team
+  #       link: /team/
+  #     - title: Services
+  #       link: /services/
+  #     - title: Blog
+  #       link: /blog/
+  #     - title: F.A.Q.
+  #       link: /faq/
+  #     - title: 404 Page
+  #       link: /404.html
+  # - title: Elements
+  #   link: /elements/
   # - title: Examples
   #   link: /demo-paragliding/
   #   items:

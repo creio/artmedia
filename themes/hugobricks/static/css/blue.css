@@ -118,8 +118,8 @@ img {filter: grayscale(0);}
   margin: 0 auto;
 }
 
-.blocks .b24-form-wrapper {
-  background: var(--light);
+.bgimage .b24-form-wrapper {
+  text-align: left;
   border: 0.1rem solid var(--borderLight);
   padding: 1rem;
   border-radius: 0.5rem;

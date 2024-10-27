@@ -50,6 +50,21 @@ seo:
 
 {{< /brick_container >}}
 
+{{< brick_cta >}}
+
+## Оставьте заявку сейчас, чтобы успеть получить альбомы к выпускному
+
+<script data-b24-form="click/120/nxgybi" data-skip-moving="true">
+  (function(w,d,u){
+  var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+  var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+  })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_120.js');
+</script>
+
+<button class="btn">СВЯЖИТЕСЬ СО МНОЙ</button>
+
+{{< /brick_cta >}}
+
 {{< brick_features >}}
 
 ## Что входит в стоимость альбомов
@@ -108,7 +123,7 @@ seo:
 
 {{< /brick_items_round >}}
 
-{{< brick_container >}}
+{{< brick_quote >}}
 
 <script data-b24-form="inline/120/nxgybi" data-skip-moving="true">
   (function(w,d,u){
@@ -117,6 +132,14 @@ seo:
   })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_120.js');
 </script>
 
-{{< /brick_container >}}
+![](/uploads/form-bg.png)
 
-<!-- {{< brick_cta >}}{{< /brick_cta >}} -->
+{{< /brick_quote >}}
+
+{{< brick_wide >}}
+
+Студия **АртМедия** специализируется на выполнении фотоальбомов для выпускников, предлагая неповторимые эмоции, стильный дизайн и высококачественные фотоснимки сделанные профессионалами. Сотрудничество с нами гарантирует лёгкий и увлекательный процесс создания школьных альбомов, а результат приятно удивит. Более 400 образовательных учреждений уже выбрали нашу студию для своих выпускных альбомов.
+
+Наши фотографы имеют обширный опыт съемки выпускников в различных городах России. Благодаря нашей расширенной партнерской сети мы можем выполнить заказы практически в любом населенном пункте. **Бесплатная доставка альбомов по всей России** подчеркнет качество обслуживания в нашей студии. При выборе нас вы получаете высокий уровень сервиса по честной цене!
+
+{{< /brick_wide >}}

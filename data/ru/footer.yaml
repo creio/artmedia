@@ -1,7 +1,11 @@
 logo_image: /uploads/branding/logoartmedia.png
 menuitems:
-  - title: О нас
-    link:  /about/
+  - title: Альбомы
+    link: /products/
+  - title: Контакты
+    link: /contact/
+  # - title: О нас
+  #   link:  /about/
   # - title: Elements
   #   link:  /elements/
 # socials:
