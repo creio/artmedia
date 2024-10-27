@@ -1,0 +1,9 @@
+<ul class="grid items-round">
+  {{- range (index page.Site.Data page.Site.Language.Lang).schools -}}
+  <li class="has_icon">
+    <img src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}{{ ((resources.GetMatch .image).Fit `600x600 jpg Smart q90`).RelPermalink | safeURL }}{{ else }}{{ .image }}{{ end }}" alt="{{ .name }} image" class="round">
+    <h3>{{ .name }}</h3>
+    <p>{{ .description }}</p>
+  </li>
+  {{ end }}
+</ul>

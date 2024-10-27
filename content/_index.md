@@ -100,4 +100,23 @@ seo:
 
 {{< brick_reviews >}}{{< /brick_reviews >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_items_round >}}
+
+## Некоторые школы, с которыми мы работаем
+
+Выпускники более 500 учебных заведений по всей России уже выбрали нашу студию.
+
+{{< /brick_items_round >}}
+
+{{< brick_container >}}
+
+<script data-b24-form="inline/120/nxgybi" data-skip-moving="true">
+  (function(w,d,u){
+  var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+  var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+  })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_120.js');
+</script>
+
+{{< /brick_container >}}
+
+<!-- {{< brick_cta >}}{{< /brick_cta >}} -->

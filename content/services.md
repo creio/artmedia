@@ -10,6 +10,7 @@ title: Services
 This is a demo of the services page. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
 
 {{< /brick_services >}}
+
 {{< brick_blocks >}}
 
 ## Alternative services 1
@@ -71,6 +72,7 @@ Start with the end result.
 [](/services/)
 
 {{< /brick_blocks >}}
+
 {{< brick_blocks >}}
 
 ## Alternative services 2

@@ -1,0 +1,12 @@
+
+{{- $inner := . -}}
+<section class="reviews">
+    <div class="container small">
+        {{- markdownify $inner -}}
+    </div>
+    <div class="container">
+        {{ partial "items-round.html" . }}
+    </div>
+</section>
+
+
