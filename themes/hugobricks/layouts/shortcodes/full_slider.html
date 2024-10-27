@@ -1,0 +1,17 @@
+{{ $dir := string (.Get "dir") }}
+
+<div class="swiper swiper-main">
+  <div class="swiper-wrapper">
+{{ range (readDir (print "/static" $dir)) }}
+  {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
+  {{- $imageurl := printf "%s/%s" $dir .Name -}}
+  {{- $imagetitle := index (split .Name ".") 0 -}}
+  {{- if eq $image.ResourceType "image" -}}
+  <div class="swiper-slide"><img src="{{ ($image.Fit "560x560 Center q80").Permalink }}"></div>
+  {{- end -}}
+{{ end }}
+  </div>
+  <div class="swiper-pagination swiper-main-pagination"></div>
+  <div class="swiper-button-prev swiper-main-prev"></div>
+  <div class="swiper-button-next swiper-main-next"></div>
+</div>

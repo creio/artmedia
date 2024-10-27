@@ -38,6 +38,18 @@ seo:
 {{< brick_products >}}
 {{< /brick_products >}}
 
+{{< brick_container >}}
+
+## Коллекция лучших обложек 2024
+
+Выбирайте одну из 14 обложек которая подходит вашему классу
+
+---
+
+{{< full_slider dir="/uploads/main_slider/" >}}
+
+{{< /brick_container >}}
+
 {{< brick_features >}}
 
 ## Что входит в стоимость альбомов

@@ -55,6 +55,8 @@ img {filter: grayscale(0);}
 }
 .swiper-products {
   max-width: 560px;
+  width: 100%;
+  margin: 0;
 }
 .products-title {
   font-size: 1.7rem;
@@ -86,4 +88,23 @@ img {filter: grayscale(0);}
 .products-prices .price-old {
   color: var(--textMedium);
   text-decoration: line-through;
+}
+
+.swiper-main {
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto;
+}
+.swiper-main .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*media*/
+@media (max-width: 640px) {
+  .products-item {
+    grid-gap: 2rem !important;
+  }
 }
