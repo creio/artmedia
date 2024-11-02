@@ -16,60 +16,149 @@ price_old: 2900 р.
 
 {{< brick_prices >}}
 
-## Our friendly pricing
+---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+### Купеческий
+
+## от 1990 р
+до 2390 р
+
+- Защитное покрытие от влаги
+- Мягкая обложка
+
+<hr>
+
+- Персональная обложка
+- Персональный разворот
+- Портреты с подписями
+- Преподаватели
+- Групповые коллажи
+
+<hr>
+
+- **Один съемочный день**
+- +290р разворот
+- Все фото в электронном виде
+- Альбом в подарок активному родителю
+
+<script data-b24-form="click/126/g3n50j" data-skip-moving="true">
+  (function(w,d,u){
+  var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+  var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+  })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_126.js');
+</script>
+
+<button class="button ghost">ВЫБРАТЬ</button>
 
 ---
 
-**budget**
-### Open-source
+**популярный**
 
-Full-featured theme/page builder to create super fast & amazing website
+### Боярский
 
-### _$_**0**/month
+## **от 2490 р**
+до 2990 р
 
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
+- Твердая обложка
+- раскрытие на 180
+- ламинированные развороты
 
-[Get started](/get-started/)
+<hr>
+
+- **Персональная обложка**
+- Персональный разворот
+- Портреты с подписями
+- Преподаватели
+- Общее фото
+- Групповые коллажи
+
+<hr>
+
+- **Съемка + досъемка**
+- +490р разворот
+- Все фото в электронном виде
+- Альбом в подарок активному родителю
+
+<script data-b24-form="click/126/g3n50j" data-skip-moving="true">
+  (function(w,d,u){
+  var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+  var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+  })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_126.js');
+</script>
+
+<button class="button ghost">ВЫБРАТЬ</button>
 
 ---
 
-**most popular**
+### Княжеский
 
-### Hosted
+## **от 2990 р**
+до 3990 р
 
-Everything in one toolkit – We host your website on our top-notch infrastructure.
+- От 30 страниц
+- Твердая обложка
+- защитное покрытие от влаги
 
-### _$_**25**/month
+<hr>
 
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
-- Form handling + notifications
-- CMS system for editors
+- **Персональная обложка**
+- **Персональный разворот каждому ученику**
+- Персональный разворот
+- Портреты с подписями
+- Преподаватели
+- Групповые коллажи
 
-[Yes, pick me!](/get-started/)
+<hr>
+
+- **Два съемочных дня**
+- +490р разворот
+- Все фото в электронном виде
+- Альбом в подарок активному родителю
+
+<script data-b24-form="click/126/g3n50j" data-skip-moving="true">
+  (function(w,d,u){
+  var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+  var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+  })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_126.js');
+</script>
+
+<button class="button ghost">ВЫБРАТЬ</button>
 
 ---
 
-**everything**
+### Царский
 
-### Enterprise
+## **от 3390 р**
+до 4290 р
 
-Get exceptional value and cost savings with our complete products suite.
+- Пластиковые листы
+- Твердая обложка, раскрытие на 180
+- Персональный менеджер
+- ламинированные развороты
 
-### _$_**75**/month
+<hr>
 
-- All other features plus:
-- High priority support
-- Theme adjustments
-- Custom bricks (on request)
+- **Персональная обложка**
+- **Персональный разворот**
+- Портреты с подписями
+- Преподаватели
+- Общее фото
+- Групповые коллажи
 
-[Contact us](/get-started/)
+<hr>
+
+- **Съемка + досъемка**
+- +290р разворот
+- Все фото в электронном виде
+- Альбом в подарок активному родителю
+
+<script data-b24-form="click/126/g3n50j" data-skip-moving="true">
+  (function(w,d,u){
+  var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+  var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+  })(window,document,'https://cdn-ru.bitrix24.ru/b13522222/crm/form/loader_126.js');
+</script>
+
+<button class="button ghost">ВЫБРАТЬ</button>
 
 {{< /brick_prices >}}

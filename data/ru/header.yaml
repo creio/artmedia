@@ -13,29 +13,29 @@ menuitems:
         link: /products/kinder/
   - title: Контакты
     link: /contact/
-  # - title: Pages
-  #   link: /about/
-  #   items:
-  #     - title: About
-  #       link: /about/
-  #     - title: Basic page 1
-  #       link: /basic/
-  #     - title: Basic page 2
-  #       link: /basic2/
-  #     - title: Images
-  #       link: /images/
-  #     - title: Our team
-  #       link: /team/
-  #     - title: Services
-  #       link: /services/
-  #     - title: Blog
-  #       link: /blog/
-  #     - title: F.A.Q.
-  #       link: /faq/
-  #     - title: 404 Page
-  #       link: /404.html
-  # - title: Elements
-  #   link: /elements/
+  - title: Pages
+    link: /about/
+    items:
+      - title: About
+        link: /about/
+      - title: Basic page 1
+        link: /basic/
+      - title: Basic page 2
+        link: /basic2/
+      - title: Images
+        link: /images/
+      - title: Our team
+        link: /team/
+      - title: Services
+        link: /services/
+      - title: Blog
+        link: /blog/
+      - title: F.A.Q.
+        link: /faq/
+      - title: 404 Page
+        link: /404.html
+  - title: Elements
+    link: /elements/
   # - title: Examples
   #   link: /demo-paragliding/
   #   items:
