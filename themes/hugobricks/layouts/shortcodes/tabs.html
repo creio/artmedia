@@ -4,20 +4,24 @@
 {{- end -}}
 {{- $tabs := split $inner "---" -}}
 <ul class="tabs">
+{{- $counter := 1 -}}  <!-- Инициализация счетчика -->
 {{- range $tabs -}}
     {{- $title := index (findRE `(?s)<h2.*?>.*?</h2>` (markdownify .) 1) 0 -}}
-    {{- $id := index (split (index (findRE `(?s)id=".*?"` $title 1) 0) `"`) 1 -}}
+    {{- $id := $counter -}}  <!-- Установка ID на текущее значение счетчика -->
     {{- $titleplain := replace (index (split $title ">") 1) `</h2` `` -}}
     <li><a href="#tab_{{- $id -}}" onclick="toggleTab(this); return false;">{{ $titleplain }}</a></li>
+    {{- $counter = add $counter 1 -}}  <!-- Увеличение счетчика -->
 {{- end -}}
 </ul>
 <div class="tabs_container">
+{{- $counter := 1 -}}  <!-- Сброс счетчика для вкладок -->
 {{- range $tabs -}}
     {{- $title := index (findRE `(?s)<h2.*?>.*?</h2>` (markdownify .) 1) 0 -}}
-    {{- $id := index (split (index (findRE `(?s)id=".*?"` $title 1) 0) `"`) 1 -}}
+    {{- $id := $counter -}}  <!-- Установка ID на текущее значение счетчика -->
     <div class="tab" id="tab_{{- $id -}}">
         {{- markdownify . | safeHTML -}}
     </div>
+    {{- $counter = add $counter 1 -}}  <!-- Увеличение счетчика -->
 {{- end -}}
 </div>
 <script>

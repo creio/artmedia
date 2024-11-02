@@ -17,9 +17,7 @@
     </div>
   {{- else -}}
     <div class="container">
-        {{- markdownify $inner -}}
+        {{ if eq (substr (markdownify $inner) 0 1) "<" }}{{- markdownify $inner -}}{{ else }}<p>{{- markdownify $inner -}}</p>{{ end }}
     </div>
   {{- end -}}
 </section>
-
-

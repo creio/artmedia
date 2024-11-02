@@ -5,37 +5,41 @@ menuitems:
   - title: Альбомы
     link: /products/
     items:
+      - title: Для 1 класса
+        link: /products/1-class/
+      - title: Для 4 класса
+        link: /products/4-class/
       - title: Для старших классов
         link: /products/senior-classes/
-      - title: Для младших классов
-        link: /products/kinder-classes/
+      - title: Для кадетов
+        link: /products/kadety/
       - title: Для детского сада
         link: /products/kinder/
   - title: Контакты
     link: /contact/
-  - title: Pages
-    link: /about/
-    items:
-      - title: About
-        link: /about/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Images
-        link: /images/
-      - title: Our team
-        link: /team/
-      - title: Services
-        link: /services/
-      - title: Blog
-        link: /blog/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
-        link: /404.html
-  - title: Elements
-    link: /elements/
+  # - title: Pages
+  #   link: /about/
+  #   items:
+  #     - title: About
+  #       link: /about/
+  #     - title: Basic page 1
+  #       link: /basic/
+  #     - title: Basic page 2
+  #       link: /basic2/
+  #     - title: Images
+  #       link: /images/
+  #     - title: Our team
+  #       link: /team/
+  #     - title: Services
+  #       link: /services/
+  #     - title: Blog
+  #       link: /blog/
+  #     - title: F.A.Q.
+  #       link: /faq/
+  #     - title: 404 Page
+  #       link: /404.html
+  # - title: Elements
+  #   link: /elements/
   # - title: Examples
   #   link: /demo-paragliding/
   #   items:

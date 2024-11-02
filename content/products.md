@@ -8,6 +8,3 @@ title: Альбомы
 # Альбомы
 
 {{< /brick_products >}}
-
-
-{{< brick_cta >}}{{< /brick_cta >}}

@@ -10,7 +10,7 @@
 {{- $subtitle := (index .Site.Data .Language.Lang).header.logo_subtitle -}}
 {{- if .Params.site_logo_subtitle -}}{{- $subtitle = .Params.site_logo_subtitle -}}{{- end -}}
 
-<a href="{{ relLangURL `/` }}#top" class="logo">
+<a href="{{ relLangURL `/` }}" class="logo">
     {{ if $logo }}
         <div class="{{ if $subtitle }}has_subtitle{{ end}}">
             <img src="{{ $logo }}" alt="{{ $title }} logo" class="inline" />

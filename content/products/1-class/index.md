@@ -1,5 +1,5 @@
 ---
-title: Выпускные альбомы для старших классов
+title: Выпускные альбомы для 1 класса
 props:
   - "Количество страниц: от 4"
   - Студийная фотосъемка
@@ -7,17 +7,16 @@ props:
   - Портреты выпускников (весь класс на разворот)
   - Портрет классного руководителя
   - 4 групповые фотографии класса
-image: /uploads/hero.png
 images:
-  - /products/senior-classes/1.jpeg
-  - /products/senior-classes/8.jpeg
+  - /products/1-class/1.jpeg
+  - /products/1-class/8.jpeg
 price:  от 1 490 р.
 price_old: 2900 р.
 ---
 
 {{< brick_hero >}}
 
-# Выпускные альбомы для старших классов
+# Выпускные альбомы для 1 класса
 
 Фотосъемка + Альбом от 1490 р.
 
@@ -30,7 +29,7 @@ price_old: 2900 р.
 
 <button class="btn">СВЯЗАТЬСЯ СО МНОЙ</button>
 
-![](/products/senior-classes/hero.jpg)
+![](/products/1-class/hero.png)
 
 {{< /brick_hero >}}
 
@@ -284,3 +283,4 @@ lorem4
 
 
 {{< brick_reviews >}}{{< /brick_reviews >}}
+
